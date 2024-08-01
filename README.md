@@ -1,2 +1,2 @@
 # CLASS-Net
-coming soon
+Coming soon
